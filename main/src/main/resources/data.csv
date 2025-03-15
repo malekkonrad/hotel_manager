@@ -1,0 +1,8 @@
+ROOM_NUMBER,PRICE,DESCRIPTION,CAPACITY,GUEST,DATE_OF_CHECK_IN,DATE_OF_CHECK_OUT
+101,300.0,short description,5,,,
+102,200.0,short description2,2,Jan,2024-11-15,2024-11-20
+103,200.0,medium,3,,,
+104,100.0,small,1,,,
+201,400.0,apartment,2,Bartek,2024-11-11,2024-11-21
+202,400.0,apartment,2,,,
+203,400.0,apartament,2,Adam,2024-11-10,2024-11-15
